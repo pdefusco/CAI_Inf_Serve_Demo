@@ -1,0 +1,15 @@
+{
+  "namespace": "serving-default",
+  "name": "mlflow-llama31",
+  "resources": {
+    "req_cpu": "22",
+    "req_memory": "86Gi",
+    "num_gpus": "4"
+  },
+  "source": {
+    "registry_source": {
+      "version": 1, 
+      "model_id": "qfkg-0msr-kyzi-tey9"
+    }
+  }
+}
